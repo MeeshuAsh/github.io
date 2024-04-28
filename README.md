@@ -162,6 +162,9 @@ hourly_Steps %>%
   scale_fill_gradient(low = "blue", high = "green")+
   theme(axis.text.x = element_text(angle = 90))
 ```
+![image](https://github.com/MeeshuAsh/github.io/assets/168366387/2e4d3345-2077-4338-bbdf-99323ee72a08)
+
+
 <br>
 
 #### Observation
@@ -197,6 +200,9 @@ hourly_Calories %>%
   scale_fill_gradient(low = "yellow", high = "red")+
   theme(axis.text.x = element_text(angle = 90))
 ```
+![image](https://github.com/MeeshuAsh/github.io/assets/168366387/37e28169-e7d6-4592-b4e2-670bc19abbab)
+
+
 <br>
 
 #### Observation
