@@ -128,6 +128,7 @@ daily_activity %>%
 ggplot(data = daily_activity, aes(x = TotalSteps, y = Calories)) + 
   geom_point() + geom_smooth() + labs(title ="Total Steps vs. Calories")
 ```
+![image](https://github.com/MeeshuAsh/github.io/assets/168366387/0a1000c1-21a2-4707-bf70-985cc9316048)
 
 #### Hourly steps in a day
 
