@@ -2,9 +2,6 @@
 title: "DA_CapstoneProject"
 author: "Ashutosh Singh"
 date: "2024-04-09"
-output:
-  pdf_document: default
-  html_document: default
 ---
 
 We will be following 6-steps approach to analyze the data that would be presented to the Key Stakeholders in order to make informed Business Decisions.
